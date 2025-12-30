@@ -1,0 +1,27 @@
+*{
+margin:0;
+padding:0;
+}
+.diem{
+    background-color: rgb(9, 171, 166);
+}
+.dki{
+    background-color: rgb(27, 202, 241);
+}
+button{
+    background-color: black;
+    color: white;
+}
+/* }
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th,td{
+    border: 1px solid ;
+    padding: 6px;
+    text-align: left;
+}
+th{
+    background-color: ;
+} */

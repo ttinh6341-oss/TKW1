@@ -1,0 +1,47 @@
+*{
+margin:0;
+padding:0;
+}
+body{
+    font-family: 'Times New Roman',Times,serif;
+    color:azure;
+}
+.dinhdang{
+    color:blue;
+    text-align: center;
+}
+#hello{
+    color: blanchedalmond;
+}
+.dinhdang2{
+    text-align: center;
+}
+ul>li{
+    color: brown;
+
+}
+ul >li>{
+    color: rgb(189, 181, 13);
+}
+.mot{
+    background-color: slateblue;
+}
+ a:link{
+        color:#00ff00;
+        font-size:14px;
+    }
+    
+    a:visited{
+        color:#ce8217;
+        text-decoration:none;
+    }
+     a:hover{
+        color:#b8101b;
+        font-size:1.2em;
+        text-decoration:underline;
+    }
+    a:active { 
+        color:#662D91;
+        font-variant:small-caps;
+    } 
+    
